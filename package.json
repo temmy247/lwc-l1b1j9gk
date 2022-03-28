@@ -1,6 +1,6 @@
 {
   "name": "@wcd/temmy247.lwc-l1b1j9gk",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "scripts": {
     "serve": "npx wcd-cli@latest serve C5imPKQ5TifVTW6lJIWq --open"
   }
